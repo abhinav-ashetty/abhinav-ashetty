@@ -21,7 +21,7 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
-- 🎓 B.E. in **Information Science and Engineering**, DSATM Bengaluru — CGPA **9.41**
+- 🎓 B.E. in **Information Science and Engineering**, DSATM Bengaluru — CGPA **9.36**
 - 🏆 **HackWithInfy Round 2 Qualifier**
 - 💼 Web Development Intern @ **Vault of Codes (AICTE)** — React front-ends + Django REST APIs
 - 🧩 Building full-stack platforms — job portals, AI-powered EdTech tools
@@ -67,16 +67,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinav-ashetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=6D28D9&text_color=c9d1d9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-ashetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinav-ashetty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-ashetty&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-ashetty&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=6D28D9&currStreakLabel=06B6D4"/>
+  <img src="https://streak-stats.demolab.com?user=abhinav-ashetty&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-ashetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6D28D9&point=ffffff"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-ashetty&theme=tokyo-night&hide_border=true"/>
 </div>
 
 <br/>
@@ -84,7 +84,7 @@
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-ashetty&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-ashetty&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 <br/>
@@ -93,11 +93,11 @@
 
 <div align="center">
 
-<a href="https://github.com/abhinav-ashetty/Online-Job-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-ashetty&repo=Online-Job-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
-</a>
 <a href="https://github.com/abhinav-ashetty/JavaDsa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-ashetty&repo=JavaDsa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-ashetty&repo=JavaDsa&theme=tokyonight"/>
+</a>
+<a href="https://github.com/abhinav-ashetty/Online-Job-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav-ashetty&repo=Online-Job-Management-System&theme=tokyonight"/>
 </a>
 
 </div>
@@ -124,7 +124,7 @@ AI chatbot + resume analyzer + quiz generator, with resume-job matching and clou
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhinav-ashetty/profile-3d-contrib/main/profile-night-rainbow.svg" alt="3d contribution graph"/>
+  <img src="https://raw.githubusercontent.com/abhinav-ashetty/abhinav-ashetty/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph"/>
 </div>
 
 <br/>
