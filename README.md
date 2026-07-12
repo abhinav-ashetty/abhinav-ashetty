@@ -127,8 +127,6 @@ AI chatbot + resume analyzer + quiz generator, with resume-job matching and clou
   <img src="https://raw.githubusercontent.com/abhinav-ashetty/profile-3d-contrib/main/profile-night-rainbow.svg" alt="3d contribution graph"/>
 </div>
 
-> ⚙️ Both need a one-time GitHub Action setup (just copy-pasting workflow files, no coding). Full steps in the **Setup** section below — the snake "eats" your contribution graph, and the 3D graph renders your commits as a rotating isometric city that updates daily.
-
 <br/>
 
 ## 🎖️ Achievements
@@ -162,82 +160,4 @@ AI chatbot + resume analyzer + quiz generator, with resume-job matching and clou
 </div>
 
 <br/>
-
----
-
-## ⚙️ Setup: Enabling the Snake + 3D Contribution Graph
-
-These two animations need small **GitHub Actions** added to your `abhinav-ashetty/abhinav-ashetty` repo (the profile repo). One-time setup, ~5 minutes, no coding required — just create files and paste.
-
-### Step 1 — Create the workflow folder
-In your `abhinav-ashetty` repo, create a file at this exact path:
-```
-.github/workflows/profile-animations.yml
-```
-
-### Step 2 — Paste this into it
-```yaml
-name: Generate Profile Animations
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually anytime
-  push:
-    branches:
-      - main
-
-jobs:
-  generate-snake:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: abhinav-ashetty
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-3d.svg?color_snake=%2306B6D4&color_dots=%236D28D9,%2306B6D4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push snake output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  generate-3d-contrib:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: abhinav-ashetty
-
-      - name: Commit and push 3D graph
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -f profile-3d-contrib/*.svg
-          git commit -m "Update 3D contribution graph" || echo "No changes"
-          git push
-```
-
-### Step 3 — Commit it
-Commit directly to `main`. GitHub will run it automatically once (via the `push` trigger), then daily at midnight UTC after that. You can also trigger it manually anytime from the **Actions** tab → select the workflow → **Run workflow**.
-
-### Step 4 — Wait ~1–2 minutes, then refresh your profile
-Both animations will appear once the action finishes. The snake eats last year's contribution graph; the 3D graph renders as a rainbow isometric skyline of your daily commits.
-
-> ⚠️ If the 3D graph doesn't appear, it's usually because the `profile-3d-contrib` folder path doesn't exist yet — the action creates it automatically on first run, so just re-run the workflow once after the first commit.
-
 </div>
