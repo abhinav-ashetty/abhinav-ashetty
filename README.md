@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=abhinav-ashetty&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=abhinav-ashetty&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <div align="center">
