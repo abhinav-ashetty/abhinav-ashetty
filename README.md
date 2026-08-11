@@ -83,9 +83,9 @@
 
 ## 🏆 Trophy Case
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-ashetty&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-ashetty&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Profile Trophies" />
+</p>
 
 <br/>
 
