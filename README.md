@@ -72,9 +72,12 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=abhinav-ashetty&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-ashetty&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav-ashetty&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
+<div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-ashetty&theme=tokyo-night&hide_border=true"/>
+</div>
 
 <br/>
 
