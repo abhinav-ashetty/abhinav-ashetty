@@ -69,9 +69,9 @@
 <div align="center">
   
   <!-- Animated Profile Counter -->
-  <img src="https://komarev.com/ghpvc/?username=snehpnp&label=Digital%20Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/snehpnp?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/snehpnp?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=abhinav-ashetty&label=Digital%20Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abhinav-ashetty?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/abhinav-ashetty?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars" />
   
 </div>
 
@@ -80,7 +80,7 @@
   <table>
     <tr>
       <td width="100%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehpnp&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=fff&currStreakNum=fff&sideNums=fff&dates=fff" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-ashetty&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=fff&currStreakNum=fff&sideNums=fff&dates=fff" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -159,9 +159,29 @@ AI chatbot + resume analyzer + quiz generator, with resume-job matching and clou
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer"/>
+<div align="center">
+  
+  <!-- Footer Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20Build%20Something%20Amazing%20Together!&descAlignY=85&descAlign=50" />
+  
+  ### 💫 *"Reliable, user-centric applications — one commit at a time."*
+  
+  **🚀 Ready to collaborate on your next big idea? Let's connect and make it happen!**
+  
+  <!-- Animated Footer Icons -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  
+  <!-- Social Media Follow Buttons -->  
+  <br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
+  
+</div>
 
-*"Reliable, user-centric applications — one commit at a time."*
+
 
 </div>
 
