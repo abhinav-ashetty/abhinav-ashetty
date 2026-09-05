@@ -66,19 +66,25 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinav-ashetty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-ashetty&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img height="180" src="https://github-readme-streak-stats.vercel.app?user=abhinav-ashetty&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-ashetty&theme=tokyo-night&hide_border=true"/>
+  
+  <!-- Animated Profile Counter -->
+  <img src="https://komarev.com/ghpvc/?username=snehpnp&label=Digital%20Visitors&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/snehpnp?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/snehpnp?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars" />
+  
 </div>
 
+<div align="center">
+  <!-- GitHub Stats Cards with Modern Design -->
+  <table>
+    <tr>
+      <td width="100%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehpnp&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=fff&currStreakNum=fff&sideNums=fff&dates=fff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 <br/>
 
 ## 🏆 Trophy Case
